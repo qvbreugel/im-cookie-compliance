@@ -1,0 +1,17 @@
+{
+  "cookie": {
+    "en": ["cookie", "tracker", "session"],
+    "nl": ["cookie", "tracker", "sessie"],
+    "de": ["cookie", "tracker", "sitzung"]
+  },
+  "purpose": {
+    "en": ["purpose", "usage", "used for", "function", "role"],
+    "nl": ["doel", "gebruik", "gebruikt voor", "functie", "rol"],
+    "de": ["zweck", "verwendung", "genutzt für", "funktion", "rolle"]
+  },
+  "data": {
+    "en": ["data", "information", "details", "collect", "store"],
+    "nl": ["gegevens", "informatie", "details", "verzamelen", "opslaan"],
+    "de": ["daten", "information", "details", "sammeln", "speichern"]
+  }
+}

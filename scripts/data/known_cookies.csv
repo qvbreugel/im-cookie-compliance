@@ -1,0 +1,42 @@
+Cookie,Vendor,Purpose
+_ga,Google,statistics
+_gid,Google,statistics
+_gat,Google,statistics
+_fbp,Facebook,marketing
+fr,Facebook,marketing
+__utma,Google Analytics,statistics
+__utmb,Google Analytics,statistics
+__utmc,Google Analytics,statistics
+__utmz,Google Analytics,statistics
+PHPSESSID,Server-generated,necessary
+csrftoken,Django,necessary
+JSESSIONID,Server-generated,necessary
+AWSALB,Amazon Web Services,necessary
+AWSALBCORS,Amazon Web Services,necessary
+NID,Google,preference
+HSID,Google,necessary
+SSID,Google,necessary
+APISID,Google,marketing
+SID,Google,necessary
+SAPISID,Google,marketing
+PREF,YouTube,preference
+VISITOR_INFO1_LIVE,YouTube,statistics
+YSC,YouTube,statistics
+CONSENT,Google,necessary
+1P_JAR,Google,marketing
+ASP.NET_SessionId,Microsoft,necessary
+_cfduid,Cloudflare,necessary
+AWSELB,Amazon Web Services,necessary
+ARRAffinity,Azure,necessary
+SIDCC,Google,necessary
+datr,Facebook,necessary
+sb,Facebook,necessary
+__Secure-3PAPISID,Google,necessary
+__Secure-3PSID,Google,necessary
+__Secure-3PSIDCC,Google,necessary
+session,Various,necessary
+sid,Various,necessary
+auth_token,Various,necessary
+auth,Various,necessary
+SESSIONID,Various,necessary
+csrftoken,Various,necessary
